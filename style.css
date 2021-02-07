@@ -1,0 +1,14 @@
+body {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    color: green;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#canvas{
+    border: 2px dashed green;
+}
